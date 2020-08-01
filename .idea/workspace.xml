@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1461170e-b1be-4d8b-9366-08e7ef00cd33" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/css/news/index.scss" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JupyterTrust" id="38b8dbad-69f6-4501-8e26-c03fd929233f" />
+  <component name="ProjectId" id="1eqDDzr9l3llMzUmpFrWabrhspw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dest/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/css/course" />
+      <recent name="$PROJECT_DIR$/src/css/news" />
+      <recent name="$PROJECT_DIR$/src/css/common" />
+      <recent name="$PROJECT_DIR$/dest/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1461170e-b1be-4d8b-9366-08e7ef00cd33" name="Default Changelist" comment="" />
+      <created>1595040314645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595040314645</updated>
+      <workItem from="1595040318569" duration="11580000" />
+      <workItem from="1595056713309" duration="4189000" />
+      <workItem from="1595077922563" duration="7088000" />
+      <workItem from="1595124145407" duration="10482000" />
+      <workItem from="1595146198082" duration="615000" />
+      <workItem from="1595148131654" duration="19413000" />
+      <workItem from="1595203533802" duration="1463000" />
+      <workItem from="1595243396898" duration="5228000" />
+      <workItem from="1595391717490" duration="3169000" />
+      <workItem from="1595480555852" duration="6674000" />
+      <workItem from="1595494772335" duration="14562000" />
+      <workItem from="1595553486292" duration="5563000" />
+      <workItem from="1595562634878" duration="14267000" />
+      <workItem from="1595644273324" duration="1834000" />
+      <workItem from="1595728151844" duration="18189000" />
+      <workItem from="1596007318143" duration="2032000" />
+      <workItem from="1596012312033" duration="7019000" />
+      <workItem from="1596020322751" duration="6139000" />
+      <workItem from="1596030424469" duration="1244000" />
+      <workItem from="1596031824429" duration="501000" />
+      <workItem from="1596032387810" duration="670000" />
+      <workItem from="1596112304807" duration="6364000" />
+      <workItem from="1596155269653" duration="6994000" />
+      <workItem from="1596167012278" duration="3032000" />
+      <workItem from="1596170071460" duration="5000" />
+      <workItem from="1596246568545" duration="6874000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="232" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596024040506">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="517" y="232" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1596024040506" />
+    <state x="566" y="232" width="524" height="507" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1595059164696" />
+    <state x="537" y="231" width="942" height="481" key="EditFileWatcherDialog" timestamp="1596112798886">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="537" y="231" width="942" height="481" key="EditFileWatcherDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1596112798886" />
+    <state x="585" y="231" width="909" height="480" key="EditFileWatcherDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1595047697620" />
+    <state x="800" y="101" key="SettingsEditor" timestamp="1595041102956">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="269" y="66" key="SettingsEditor/67.27.1647.880@67.27.1647.880" timestamp="1595040566293" />
+    <state x="800" y="101" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1595041102956" />
+    <state x="518" y="279" key="com.intellij.ide.util.TipDialog" timestamp="1595040129003">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="518" y="279" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1595040129003" />
+    <state x="384" y="284" width="697" height="678" key="search.everywhere.popup" timestamp="1596250601198">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="384" y="284" width="697" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1596250601198" />
+    <state x="438" y="284" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1595043740456" />
+  </component>
+</project>
